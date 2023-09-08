@@ -16,7 +16,6 @@ public class Palindromo {
         scanner.close();
     }
 
-    // Función para verificar si un número es un palíndromo
     public static boolean esPalindromo(int numero) {
         int original = numero;
         int invertido = 0;
